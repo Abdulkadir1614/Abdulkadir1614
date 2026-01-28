@@ -2,16 +2,23 @@
 <h3 align="center">A passionate frontend developer from Somalia 🇸🇴</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"
-       alt="Developer working"
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"
+       alt="Software Engineer Coding"
        width="420"/>
 </p>
 
----
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=abdulkadir1614" alt="abdulkadir1614" />
+  </a>
+</p>
 
 - 🔭 I’m currently working on **Sports Facility Booking System**
 
 - 🌱 I’m currently learning **Laravel & React**
+
+- 👨‍💻 All of my projects are available at  
+  https://github.com/abdulkadir1614
 
 - 💬 Ask me about **React and PHP**
 
@@ -27,7 +34,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <!-- Add your social links here later -->
+  <!-- You can add LinkedIn, Twitter, Email icons here later -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -77,4 +84,22 @@
   <a href="https://vuejs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40"/>
   </a>
+</p>
+
+<p>
+  <img align="left"
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulkadir1614&show_icons=true&locale=en&layout=compact"
+       alt="abdulkadir1614" />
+</p>
+
+<p>&nbsp;
+  <img align="center"
+       src="https://github-readme-stats.vercel.app/api?username=abdulkadir1614&show_icons=true&locale=en"
+       alt="abdulkadir1614" />
+</p>
+
+<p>
+  <img align="center"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=abdulkadir1614"
+       alt="abdulkadir1614" />
 </p>
